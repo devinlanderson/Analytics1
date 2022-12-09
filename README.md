@@ -1,10 +1,21 @@
-##Data Analytics Portfolio
+## Data Analytics Portfolio
+This is the portfolio of all class assignments I have completed in Data Analytics. 
 
-This is meant to showcase each Analytics assignment that has been completed.
+### My Résumé
+- [Résumé](https://colab.research.google.com/drive/1fWspBmFq9FdMs7F9TT43uBf5qgcd8Zqe)
 
-###Resume
+## Table of Contents
+1. **Module 1: Using Colab**
+   - A1: Markdown CV
+   
+2. **Module 2: Fundamentals of Programming for Data Analysis**
+   - A2 Programming Fundamentals
+   
+3. **Module 3: Working with Data**
+   - A3 Data Working
+  
+4. **Module 4: Stats review**
+   - A4 Hypothesis testing and Statistics
 
--['Resume']('https://colab.research.google.com/drive/1fWspBmFq9FdMs7F9TT43uBf5qgcd8Zqe')
-
-##Analytics 1 Table of Contents
-
+5. **Module 5: Regression**
+   - A5 Linear Regression Analysis
