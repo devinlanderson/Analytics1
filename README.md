@@ -19,3 +19,9 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 
 5. **Module 5: Regression**
    - A5 Linear Regression Analysis
+
+**Module 6: Clustering and Segmentation**
+   - A6 Segmentation (retail transactions and behavioral segmentation)
+   
+7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
+   - [A7 GitHub](https://github.com/devinlanderson/Analytics1/blob/main/README.md)
